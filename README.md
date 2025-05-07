@@ -12,5 +12,8 @@
 ![لقطة شاشة للتطبيق](S.png)
 
 ## 🚀 كيفية التشغيل
+## رابط كود بايثون جاهز 
+[رابط إلى الكود  ](https://colab.research.google.com/drive/1TaH_OgkbOCiC9XzqdfwtC-Wd2_pyzoFX#scrollTo=cST-vi4oN3Rc)
+
 ```bash
 pip install gradio transformers
